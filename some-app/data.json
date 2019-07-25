@@ -1,0 +1,7 @@
+[
+{"id": 1, "user_login": "login1", "created_at": "01/01/01", "updated_at": "02/01/01", "deleted_at": "03/01/01"},
+{"id": 2, "user_login": "login2", "created_at": "01/01/01", "updated_at": "02/01/01", "deleted_at": "03/01/01"},
+{"id": 3, "user_login": "login3", "created_at": "01/01/01", "updated_at": "02/01/01", "deleted_at": "03/01/01"},
+{"id": 4, "user_login": "login4", "created_at": "01/01/01", "updated_at": "02/01/01", "deleted_at": "03/01/01"},
+{"id": 5, "user_login": "login5", "created_at": "01/01/01", "updated_at": "02/01/01", "deleted_at": "03/01/01"}
+]
